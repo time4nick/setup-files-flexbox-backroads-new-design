@@ -294,13 +294,13 @@ Services
     flex-wrap: wrap;
   }
   .service {
-    flex: 0 0 calc (50% - 1rem);
+    flex: 0 0 calc(50% - 1rem);
     margin-bottom: 1rem;
   }
 }
 @media screen and (min-width: 966px) {
   .service {
-    flex: 0 0 calc (33% - 1rem);
+    flex: 0 0 calc(33% - 1rem);
   }
 }
 @media screen and (min-width: 1170px) {
@@ -376,12 +376,12 @@ Featured Tours
     justify-content: space-between;
   }
   .tour-card {
-    flex: 0 0 calc (50% - 1rem);
+    flex: 0 0 calc(50% - 2rem);
   }
 }
 @media screen and (min-width: 1170px) {
   .tour-card {
-    flex: 0 0 calc (33% - 1rem);
+    flex: 0 0 calc(33.333% - 2rem);
   }
 }
 /*
